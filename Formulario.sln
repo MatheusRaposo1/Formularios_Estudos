@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario", "Formulario\Formulario.csproj", "{A5ACE531-F155-4581-AB4C-0237634F2614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormControle", "FormControle\FormControle.csproj", "{D9F34EC1-D745-43CE-8AF9-B66AEB805A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMdi", "FormMdi\FormMdi.csproj", "{B7CCA3A4-C772-4887-8DF1-D2F0DAB0031A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5ACE531-F155-4581-AB4C-0237634F2614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5ACE531-F155-4581-AB4C-0237634F2614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5ACE531-F155-4581-AB4C-0237634F2614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5ACE531-F155-4581-AB4C-0237634F2614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F34EC1-D745-43CE-8AF9-B66AEB805A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F34EC1-D745-43CE-8AF9-B66AEB805A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F34EC1-D745-43CE-8AF9-B66AEB805A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F34EC1-D745-43CE-8AF9-B66AEB805A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CCA3A4-C772-4887-8DF1-D2F0DAB0031A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CCA3A4-C772-4887-8DF1-D2F0DAB0031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CCA3A4-C772-4887-8DF1-D2F0DAB0031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CCA3A4-C772-4887-8DF1-D2F0DAB0031A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CCE0E9-7C38-4A4E-81A2-B3418D4EC6EE}
+	EndGlobalSection
+EndGlobal
